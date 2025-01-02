@@ -1,0 +1,56 @@
+.globalform input[type="checkbox"], input[type="radio"] {
+    appearance: none;
+    width: 25px!important;
+    height: 25px!important;
+    border-radius: 5px!important;
+    background-clip: content-box!important;
+    border: 2px solid #EDEDED!important;
+    transition: all 0.3s ease!important;  /* Smooth transition for all properties */
+}
+
+/* Checkbox or Radio button when checked */
+.globalform input[type="checkbox"]:checked, input[type="radio"]:checked {
+    background-color: #D9E821!important;
+    padding: 4px!important;
+    border: 2px solid #D9E821!important;
+    transition: all 0.3s ease!important;  /* Smooth transition for changes */
+}
+
+/* Checkbox or Radio button when not checked */
+.globalform input[type="checkbox"]:not(:checked), input[type="radio"]:not(:checked) {
+    background-color: white!important;  /* Ensure background stays white when not checked */
+    padding: 0!important;  /* Reset padding when unchecked */
+    border: 2px solid #EDEDED!important;
+}
+
+
+/* Hide the default file input */
+input[type="file"] {
+    display: none;  /* Hide the default input */
+}
+
+/* Style for the custom file input button */
+.custom-file-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #D9E821;
+    color: white;
+    border: 2px solid #D9E821;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    width: 135px;
+}
+
+/* Hover effect for the custom file button */
+/* .custom-file-button:hover {
+    background-color: #b8d21e;
+    border-color: #b8d21e;
+} */
+
+/* Focus effect for accessibility */
+.custom-file-button:focus {
+    outline: none;
+    box-shadow: 0 0 3px 2px rgba(0, 0, 0, 0.2);
+}
