@@ -1,0 +1,125 @@
+{
+  "hash": "71f58e02",
+  "browserHash": "fa9b645a",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e5d16d0a",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "8b33802a",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "2c4b3416",
+      "needsInterop": false
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "5f34d8ee",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "b26c2b98",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit/query": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/query/rtk-query.modern.mjs",
+      "file": "@reduxjs_toolkit_query.js",
+      "fileHash": "d0feec33",
+      "needsInterop": false
+    },
+    "redux-persist": {
+      "src": "../../node_modules/redux-persist/es/index.js",
+      "file": "redux-persist.js",
+      "fileHash": "35f3e016",
+      "needsInterop": false
+    },
+    "redux-persist/lib/storage": {
+      "src": "../../node_modules/redux-persist/lib/storage/index.js",
+      "file": "redux-persist_lib_storage.js",
+      "fileHash": "0b39a79c",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.esm.js",
+      "file": "react-icons_fa.js",
+      "fileHash": "1d22bbc5",
+      "needsInterop": false
+    },
+    "react-select": {
+      "src": "../../node_modules/react-select/dist/react-select.esm.js",
+      "file": "react-select.js",
+      "fileHash": "b7be7ec0",
+      "needsInterop": false
+    },
+    "sweetalert2": {
+      "src": "../../node_modules/sweetalert2/dist/sweetalert2.esm.all.js",
+      "file": "sweetalert2.js",
+      "fileHash": "606567a1",
+      "needsInterop": false
+    },
+    "flatpickr": {
+      "src": "../../node_modules/flatpickr/dist/esm/index.js",
+      "file": "flatpickr.js",
+      "fileHash": "ba369d9f",
+      "needsInterop": false
+    },
+    "react-apexcharts": {
+      "src": "../../node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "react-apexcharts.js",
+      "fileHash": "ed9f59e7",
+      "needsInterop": true
+    },
+    "@vis.gl/react-google-maps": {
+      "src": "../../node_modules/@vis.gl/react-google-maps/dist/index.modern.mjs",
+      "file": "@vis__gl_react-google-maps.js",
+      "fileHash": "0e24f276",
+      "needsInterop": false
+    },
+    "react-icons/io": {
+      "src": "../../node_modules/react-icons/io/index.esm.js",
+      "file": "react-icons_io.js",
+      "fileHash": "6474f9f5",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "56cc04ff",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-4NM3FW5T": {
+      "file": "chunk-4NM3FW5T.js"
+    },
+    "chunk-A7ZYBFQ4": {
+      "file": "chunk-A7ZYBFQ4.js"
+    },
+    "chunk-K2BGRD5Z": {
+      "file": "chunk-K2BGRD5Z.js"
+    },
+    "chunk-G4O6EYSD": {
+      "file": "chunk-G4O6EYSD.js"
+    },
+    "chunk-WVOSQMK6": {
+      "file": "chunk-WVOSQMK6.js"
+    },
+    "chunk-MBT3EELI": {
+      "file": "chunk-MBT3EELI.js"
+    },
+    "chunk-ZC22LKFR": {
+      "file": "chunk-ZC22LKFR.js"
+    }
+  }
+}
